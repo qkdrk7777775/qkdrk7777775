@@ -11,6 +11,7 @@
 
 개인이력 : ftp://shere:shere@ducj.ipdisk.co.kr/HDD1/shere/
 
+----
 
 <a href="https://ducj.tistory.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=qkdrk7777775" />
