@@ -9,9 +9,7 @@
 
 [kakao](https://open.kakao.com/me/cjcho)
 
-## 개인이력
-
-ftp://shere:shere@ducj.ipdisk.co.kr/HDD1/shere/
+개인이력 : ftp://shere:shere@ducj.ipdisk.co.kr/HDD1/shere/
 
 
 <a href="https://ducj.tistory.com/">
