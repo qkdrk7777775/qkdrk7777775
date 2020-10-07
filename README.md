@@ -12,16 +12,16 @@
 
 ----
 
-<a href="https://ducj.tistory.com/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qkdrk7777775" />
-</a> &nbsp; 
-<a href="https://ducj.tistory.com/">
-  <img src="https://img.pngio.com/-tistory-png-232_237.jpg" width="28px" alt="Jehyun Lee | tistory blog" />
-</a>
-
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qkdrk7777775@gmail.com)](mailto:qkdrk7777775@gmail.com)
 
-
+  <a href="https://ducj.tistory.com/">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=qkdrk7777775" />
+  </a> &nbsp; 
+  <a href="https://ducj.tistory.com/">
+    <img src="https://img.pngio.com/-tistory-png-232_237.jpg" width="28px" alt="Jehyun Lee | tistory blog" />
+  </a>&nbsp; 
 
 
 <br><br>
+
+
