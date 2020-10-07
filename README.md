@@ -17,11 +17,6 @@
   <a href="https://ducj.tistory.com/">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=qkdrk7777775" />
   </a> &nbsp; 
-  <a href="https://ducj.tistory.com/">
-    <img src="https://img.pngio.com/-tistory-png-232_237.jpg" width="28px" alt="Jehyun Lee | tistory blog" />
-  </a>&nbsp; 
-
-
 <br><br>
 
 
