@@ -5,7 +5,6 @@
 
 [rpubs](https://rpubs.com/qkdrk777777/)
 
-[tistory](https://ducj.tistory.com/)
 
 [kakao](https://open.kakao.com/me/cjcho)
 
@@ -15,7 +14,7 @@
 
 <a href="https://ducj.tistory.com/">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=qkdrk7777775" />
-</a>
+</a> &nbsp; 
 <a href="https://ducj.tistory.com/">
   <img src="https://img.pngio.com/-tistory-png-232_237.jpg" width="28px" alt="Jehyun Lee | tistory blog" />
 </a>
